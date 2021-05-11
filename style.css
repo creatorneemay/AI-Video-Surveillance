@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 25px;
+    font-family: fantasy;
+    font-weight: bold;
+    width: 50%;
+}
+#start, #status, #no__of_objects{
+    font-size: 20px;
+}
+#camera{
+    width: 400px;
+    height: 400px;
+    box-shadow: 5px 5px 5px blue;
+    border: 2px solid red;
+}
+.footer{
+    position: fixed;
+    width: 80%;
+    bottom: 0;
+    color: red;
+    box-shadow: -5px -5px 5px blue;
+    background: gold;
+    line-height: 1.3;
+    margin-left: 150px;
+}
